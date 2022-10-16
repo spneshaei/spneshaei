@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Parsa.
+
+I'm currently an undergraduate student in Computer Engineering at Sharif University of Technology (the best university in Iran, according to QS ranking 2023).
+
+Having a reputation of 3460 in Stack Overflow as of September 28, 2022, my research is related to the intersection of three main lines of research: 1) human-computer interaction, 2) natural language processing and machine learning, and 3) digital education. Based on my interest in these fields, I am passionate about designing and developing educational tools and projects that can help people improve their skills.
+
+As a part of several research teams (including at EPFL, Sharif University, IPM, and TeIAS), I have participated in numerous projects which make use of the state-of-the-art NLP and ML models to provide learning and training support to users. In addition, I've been authored or participated in writing several papers submitted to prestigious conferences such as ACM CHI, and I'm still continuing my research on educational support systems.
 
 <!--
 **spneshaei/spneshaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
